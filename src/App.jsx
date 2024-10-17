@@ -24,14 +24,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Fabrice Eureka",
+  name: "Fabrice",
   title: "DevOps Engineer",
   email: "fabrice@example.com",
   gitHub: "Fabr1ce",
   linkedIn: "fabricee",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
